@@ -446,8 +446,11 @@ typedef struct s_ps_node
 # Resources
 - [Visualization 1](https://vscza.itch.io/push-swap)
 - [Visualization 2](https://www.youtube.com/watch?v=4dMsuxfqufg)
+- [Visualization 3](https://www.push-swap42-visualizer.vercel.app/)
+- [Visualization 4](https://github.com/gemartin99/Push-Swap-Tester)
 - [Tester](https://github.com/LeoFu9487/push_swap_tester)
 - [Tester](https://github.com/nirmal-gope/push_swap_tester)
+- [Tester](https://github.com/gemartin99/Push-Swap-Tester)
 - [Big O](https://medium.com/@princemeghani/big-o-notation-a-simple-explanation-with-examples-1ef0356825a7)
 - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 - [Circular Doubly linked list](https://www.geeksforgeeks.org/dsa/introduction-to-circular-doubly-linked-list/)
